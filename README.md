@@ -7,7 +7,7 @@ In Programming, a 'Hello World' Program, due to it being a very simple program i
 
 Updates:  
 
-1.1
+1.1                                                                                                                         
 'Hello World' Program created for Haskell.
 
 1.0                                                           
